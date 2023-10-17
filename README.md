@@ -1,13 +1,13 @@
 # LTL-Transfer
 
-This is the repository that contains source code for the [LTL-Transfer website](https://jasonxyliu.github.io/LTL-Transfer).
+This is the repository that contains source code for the [Lang2LTL website](https://lang2ltl.github.io/).
 
 ```
-@article{liu2022ltltransfer
-  author    = {Liu, Jason Xinyu and Shah, Ankit and Rosen,Eric and George, Konidaris and Tellex, Stefanie},
-  title     = {Skill Transfer for Temporal Task Specification},
-  journal   = {arXiv},
-  year      = {2022},
+@article{liu2023lang2ltl,
+  author    = {Liu, Jason Xinyu and Yang, Ziyi and Idrees, Ifrah and Liang, Sam and Schornstein, Benjamin and Tellex, Stefanie and Shah, Ankit},
+  title     = {Grounding Complex Natural Language Commands for Temporal Tasks in Unseen Environments},
+  journal   = {Conference on Robot Learning},
+  year      = {2023},
 }
 ```
 
