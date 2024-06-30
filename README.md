@@ -1,4 +1,4 @@
-# LTL-Transfer
+# Lang2LTL
 
 This is the repository that contains source code for the [Lang2LTL website](https://lang2ltl.github.io/).
 
