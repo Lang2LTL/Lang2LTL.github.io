@@ -4,10 +4,11 @@ This is the repository that contains source code for the [Lang2LTL website](http
 
 ```
 @article{liu2023lang2ltl,
-  author    = {Liu, Jason Xinyu and Yang, Ziyi and Idrees, Ifrah and Liang, Sam and Schornstein, Benjamin and Tellex, Stefanie and Shah, Ankit},
-  title     = {Grounding Complex Natural Language Commands for Temporal Tasks in Unseen Environments},
-  journal   = {Conference on Robot Learning (CoRL)},
-  year      = {2023},
+  author  = {Liu, Jason Xinyu and Yang, Ziyi and Idrees, Ifrah and Liang, Sam and Schornstein, Benjamin and Tellex, Stefanie and Shah, Ankit},
+  title   = {Grounding Complex Natural Language Commands for Temporal Tasks in Unseen Environments},
+  journal = {Conference on Robot Learning (CoRL)},
+  year    = {2023},
+  url     = {https://arxiv.org/abs/2302.11649}
 }
 ```
 
